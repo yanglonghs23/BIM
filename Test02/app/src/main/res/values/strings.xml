@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test02</string>
+    <string name="open_bluetooth">打开蓝牙</string>
+    <string name="close_bluetooth">关闭蓝牙</string>
+    <string name="begin_collect">开始采集</string>
+    <string name="end_collect">停止采集</string>
+    <string name="get_data">查看数据</string>
+</resources>
